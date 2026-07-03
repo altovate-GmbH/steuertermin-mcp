@@ -25,7 +25,7 @@ MCP-Server für deutsche Steuertermine und Finanzamt-Fristen. Kein Login, keine 
 ## Installation
 
 ```bash
-git clone https://github.com/alexaltovate/steuertermin-mcp.git
+git clone https://github.com/altovate-GmbH/steuertermin-mcp.git
 cd steuertermin-mcp
 npm install
 npm run build
